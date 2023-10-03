@@ -1,2 +1,3 @@
 # test
-testy
+testing purpose
+GitHub integration with Eclipse IDE
